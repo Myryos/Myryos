@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hervé Boutonnet</h1>
-<h3 align="center">I'm a Back-end work-study student</h3>
+<h3 align="center">I'm am</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myryos&label=Profile%20views&color=0e75b6&style=flat" alt="myryos" /> </p>
 
