@@ -1,5 +1,5 @@
-<strong><p>En cours de construction</p></strong>
-<h1 align="center">Hi 👋, I'm Hervé Boutonnet</h1>
+<strong><h1 align="center">En cours de construction</h1></strong>
+<h2 align="center">Hi 👋, I'm Hervé Boutonnet</h2>
 <h3 align="center">I'm am</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myryos&label=Profile%20views&color=0e75b6&style=flat" alt="myryos" /> </p>
