@@ -4,7 +4,7 @@ Je fais du développement backend, surtout en Python et Django. Ces trois derni�
 
 Au CFPP, je me suis occupé de la refonte du site. J'ai pensé l'architecture et monté la base : une API Django REST, un front en Nuxt, la CI et des environnements de staging. À côté, je gérais le réseau (Sophos, RADIUS, VoIP) et Microsoft 365.
 
-En ce moment, je me forme à TypeScript, NestJS et Next.js.
+En ce moment, je me forme à TypeScript, NestJS et Next.js, et je remets au propre mes anciens projets de formation.
 
 Je cherche un poste de développeur backend ou full-stack, du côté de Lyon ou en full remote, et je suis disponible dès maintenant.
 
